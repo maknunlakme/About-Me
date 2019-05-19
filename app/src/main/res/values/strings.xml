@@ -6,4 +6,6 @@
         bye\nsomething must be written
         here\nsomething is written
         here\nblah\nblah\nblah\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
